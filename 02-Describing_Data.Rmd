@@ -243,7 +243,7 @@ qplot(exp_num, col=I("grey"), fill=I("white"))+
 ```
 
 
-## Measures of Variation (Differentness)
+## Measures of Variation (Measure of spread of data)
 
 What did you do when you wrote essayss in high school about a book you read? Probably compare and contrast something right? When you summarize data, you do the same thing. Measures of central tendency give us something like comparing does, they tell us stuff about what is the same. Measures of variation give us something like contrasting does, they tell us stuff about what is different.
 
